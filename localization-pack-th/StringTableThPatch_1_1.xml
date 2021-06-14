@@ -72,7 +72,7 @@
             <GameDBLocalizedString>      <LocID>TOOLTIP_REQUIRED_HOSPITALIZATION</LocID>         <Text>จำเป็นต้องเข้ารักษาในโรงพยาบาล:</Text>  </GameDBLocalizedString>
             
             <!-- Insurance objectives -->
-            <GameDBLocalizedString>      <LocID>SAVE_PATIENT_AFTER_COLLAPSES</LocID>                           <Text>บันทึกผู้ป่วยหลังจาก{1} ยุบ(s)</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SAVE_PATIENT_AFTER_COLLAPSES</LocID>                           <Text>บันทึกผู้ป่วยหลังจาก{1} อาการทรุดลง(s)</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>WORKING_CLINIC_AT_ANY_SPECIALIZED_DEPARTMENT</LocID>           <Text>เปิดคลินิกที่แผนกเฉพาะทาง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>WORKING_HOSPITALIZATION_AT_ANY_SPECIALIZED_DEPARTMENT</LocID>  <Text>เปิดโรงพยาบาลที่แผนกเฉพาะทาง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>PERFORM_SURGERY</LocID>                                        <Text>ดำเนินการ {1} ผ่าตัด/ผ่าตัด</Text>  </GameDBLocalizedString>
