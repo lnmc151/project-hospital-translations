@@ -1,4 +1,4 @@
-﻿<Database>
+<Database>
     <GameDBStringTable ID="LOC_TH_DLC_INFECTIOUS_DISEASES">
 
         <LanguageCode>th</LanguageCode>
@@ -106,7 +106,7 @@
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_BIOHAZARD</LocID>                                  <Text>แผนกห้องแยก</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>OBJECT_DECAL_DID_DEPARTMENT</LocID>                             <Text>แผลกที่จัดการเกี่ยวกับโรคติดต่อ</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_INFECTIOUS_DISEASES</LocID>             <Text>Templates of Infectious diseases department rooms</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TOOLTIP_BUILDING_PREFAB_INFECTIOUS_DISEASES</LocID>             <Text>เทมเพลตห้องติดเชื้อ</Text>  </GameDBLocalizedString>
 
             <!-- DIAGNOSES - MIGRATED -->
             <GameDBLocalizedString>      <LocID>DIA_INFX</LocID>                                              	<Text>ไข้หวัดนก</Text>  </GameDBLocalizedString>
@@ -158,7 +158,7 @@
             <GameDBLocalizedString>      <LocID>DIA_012</LocID>                                                 <Text>Rickettsialpox</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_012_DESCRIPTION</LocID>                                     <Text>Rickettsialpox is a mite-borne infectious disease caused by Rickettsia akari, that is spread by mites usually living on house mice.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_013</LocID>                                                 <Text>บรูเซลโลซิส</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>DIA_013_DESCRIPTION</LocID>                                     <Text>Brucellosis is disease caused by Brucella species bacteria and it is spread by ingestion of unpasterized milk or undercooked meat.</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DIA_013_DESCRIPTION</LocID>                                     <Text>บรูเซลโลซิสเป็นโรคที่เกิดจากแบคทีเรียสายพันธุ์บรูเซลลาและแพร่กระจายโดยการกินนมที่ไม่ผ่านการพาสเจอร์ไรส์หรือเนื้อสัตว์ที่ปรุงไม่สุก</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_014</LocID>                                                 <Text>ชิคุนกุนยา</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_014_DESCRIPTION</LocID>                                     <Text>Chikungunya virus infection is spread by the bite of an infected mosquito. There is no vaccine.</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>DIA_015</LocID>                                                 <Text>ไข้คิว</Text>  </GameDBLocalizedString>
