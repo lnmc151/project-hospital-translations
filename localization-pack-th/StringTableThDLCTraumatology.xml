@@ -12,7 +12,7 @@
         <LocalizedStrings>
             <GameDBLocalizedString>      <LocID>DLC_TRAUMATOLOGY</LocID>                                       <Text>Traumatology Department DLC</Text>  </GameDBLocalizedString>
             
-            <GameDBLocalizedString>      <LocID>DPT_TRAUMATOLOGY_DEPARTMENT</LocID>                            <Text>Traumatology</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>DPT_TRAUMATOLOGY_DEPARTMENT</LocID>                            <Text>วิทยาการบาดเจ็บ</Text>  </GameDBLocalizedString>
 
             <!-- Hospitalization alias -->
             <GameDBLocalizedString>      <LocID>TRT_HOSPITALIZATION_BURN_CENTER</LocID>                        <Text>Burn unit hospitalization</Text>  </GameDBLocalizedString>
