@@ -18,7 +18,7 @@
             <GameDBLocalizedString>      <LocID>HEIGHT</LocID>                              <Text>สูง</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>NAME</LocID>                                <Text>ชื่อ</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>TITLE_SCREEN_MAP_EDITOR</LocID>             <Text>Map Editor</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>TITLE_SCREEN_MAP_EDITOR</LocID>             <Text>แก้ไขแผนที่</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TITLE_SCREEN_GAME_TEST</LocID>              <Text>Sandbox</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>TITLE_SCREEN_ANIM_TEST</LocID>              <Text>Anim Test</Text>  </GameDBLocalizedString>
 
@@ -220,8 +220,8 @@
             <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_TREATMENTS_FINISHED</LocID> <Text>Finished</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_TREATMENTS_RECOMMENDED</LocID><Text>Available treatments</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_LEVEL</LocID>               <Text>Level</Text>  </GameDBLocalizedString>
-            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_SKILLS</LocID>              <Text>Skills</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_LEVEL</LocID>               <Text>เลเวล</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_SKILLS</LocID>              <Text>ทักษะ</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_SPECIALIZATIONS</LocID>     <Text>Specializations</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SELECT_SPECIALIZATION_WARNING</LocID>       <Text>Selecting this will replace the current specialization and will set the skill level to 0%.</Text>  </GameDBLocalizedString>
 
@@ -242,7 +242,7 @@
             <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_MISSING_ROOMS</LocID>       <Text>Missing</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_OPTIONAL_ROOMS</LocID>      <Text>Optional</Text>  </GameDBLocalizedString>
 
-            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_CLINIC</LocID>              <Text>Clinic</Text>  </GameDBLocalizedString>
+            <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_CLINIC</LocID>              <Text>คลินิก</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_HOSPITALIZATION</LocID>     <Text>Hospitalization</Text>  </GameDBLocalizedString>
             <GameDBLocalizedString>      <LocID>SEGMENT_HEADING_SURGERY</LocID>             <Text>Surgery</Text>  </GameDBLocalizedString>
 
@@ -856,3 +856,4 @@
         </LocalizedStrings>
     </GameDBStringTable>
 </Database>
+
